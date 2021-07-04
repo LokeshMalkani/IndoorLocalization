@@ -1,4 +1,6 @@
+<p>•	It is a mobile application which on training either on the various room’s RSSI values or various sensory signatures predicts our current room on the basis of similarity of signatures with the trained ones.
 
+</p>
 
 <p float="left"><img src="https://user-images.githubusercontent.com/77530709/124391535-adcb6200-dd0e-11eb-8446-5bfa1281c84d.jpeg"  width="300" height="500">
 <img src="https://user-images.githubusercontent.com/77530709/124391580-e5d2a500-dd0e-11eb-83c1-58e737985fcc.jpeg" width="300" height="500">
