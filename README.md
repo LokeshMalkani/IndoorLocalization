@@ -1,4 +1,5 @@
-![DisplayingWifii](https://user-images.githubusercontent.com/77530709/124391580-e5d2a500-dd0e-11eb-83c1-58e737985fcc.jpeg =250x250)
+
+<img src="https://user-images.githubusercontent.com/77530709/124391580-e5d2a500-dd0e-11eb-83c1-58e737985fcc.jpeg" width="100" height="100">
 ![ImuSensing](https://user-images.githubusercontent.com/77530709/124391582-e703d200-dd0e-11eb-9b9e-01e999be7c60.jpeg)
 ![Accelero](https://user-images.githubusercontent.com/77530709/124391584-ec611c80-dd0e-11eb-86cc-8ee112949a05.jpeg)
 ![Gyro](https://user-images.githubusercontent.com/77530709/124391585-ed924980-dd0e-11eb-9993-a3da43079ff7.jpeg)
