@@ -8,5 +8,5 @@
 <p float="left"><img src="https://user-images.githubusercontent.com/77530709/124391592-f551ee00-dd0e-11eb-93b2-3414957cbc6d.jpeg"  width="300" height="500">
 <img src="https://user-images.githubusercontent.com/77530709/124391596-f6831b00-dd0e-11eb-9a13-2a5ce2d39443.jpeg"  width="300" height="500">
 <img src="https://user-images.githubusercontent.com/77530709/124391597-f6831b00-dd0e-11eb-91b6-d3f3dcfe4a59.jpeg"  width="300" height="500"></p>
-<p float="left"><img src="https://user-images.githubusercontent.com/77530709/124391535-adcb6200-dd0e-11eb-8446-5bfa1281c84d.jpeg" width="250" height="300"></p>
+<p float="left"><img src="https://user-images.githubusercontent.com/77530709/124391535-adcb6200-dd0e-11eb-8446-5bfa1281c84d.jpeg"  width="300" height="500"></p>
 # IndoorLocalization
