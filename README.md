@@ -1,5 +1,5 @@
 <h1><b>Indoor Localization</b></h1>
-<p>It is a mobile application which on training either on the various room’s RSSI values or various sensory signatures predicts our current room on the basis of similarity of signatures with the trained ones.
+<p float="left">It is a mobile application which on training either on the various room’s RSSI values or various sensory signatures predicts our current room on the basis of similarity of signatures with the trained ones.
 
 </p>
 
